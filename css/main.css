@@ -6,7 +6,6 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
-
 }
 #cabecera {
     background: #0077B6 ;
@@ -21,6 +20,7 @@ body {
     font-weight: normal;
     
 }
+
 #cabecera #logo {
     width: 150px;
     vertical-align: middle;
@@ -32,15 +32,21 @@ body {
 }
 .container {
     width: 70%;
-    padding: 1rem;
+    padding: 0;
     text-align: left;
-    border: 1px solid #dddddd;
+    border: 1px solid #DDD;
     margin: 0 auto;
 }
 #container h1 {
-    font-size: 20px;
+    font-size: 15px;
 }
 #post {
     background: white;
     padding: 1em;
+    }
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
