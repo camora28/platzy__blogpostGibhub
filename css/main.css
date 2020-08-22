@@ -20,7 +20,6 @@ body {
     font-weight: normal;
     
 }
-
 .container {
     width: 70%;
     padding: 1rem;
@@ -30,4 +29,10 @@ body {
 }
 #container h1 {
     font-size: 70px;
+}
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
